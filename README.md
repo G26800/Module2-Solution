@@ -1,2 +1,2 @@
-# Module2-Solution
-Module2 Project Solutions
+https://g26800.github.io/Module2-Solution/index.html
+https://g26800.github.io/Module2-Solution/index.css
